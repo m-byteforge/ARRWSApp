@@ -28,7 +28,7 @@ Functional
     • Detect image targets (product label or QR code).
     • Display 3D models of bins and waste items.
     • Allow drag-and-drop interaction.
-    • Provide instant feedback (color change, sound).
+    • Provide instant feedback (color change, sound). 
 Non-Functional
     • Load models in <1 second.
     • Maintain 30–60 FPS.
